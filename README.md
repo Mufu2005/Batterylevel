@@ -12,6 +12,8 @@ This project is a Flutter application built to demonstrate the integration of **
 * **Native Host:** Android (Kotlin)
 * **Architecture:** Message Passing via `MethodChannel` (`samples.flutter.dev/battery`)
 
+![alt text](Screenshot_20260506-205813.png)
+
 ---
 
 ## Group Members
